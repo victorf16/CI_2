@@ -1,5 +1,5 @@
 name: Go
-
+#teste
 on:
   push:
     branches: [ '*' ]
